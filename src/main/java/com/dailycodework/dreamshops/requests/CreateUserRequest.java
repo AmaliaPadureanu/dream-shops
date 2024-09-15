@@ -1,0 +1,4 @@
+package com.dailycodework.dreamshops.requests;
+
+public class CreateUserRequest {
+}
